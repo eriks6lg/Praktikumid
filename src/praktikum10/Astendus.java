@@ -10,5 +10,5 @@ public class Astendus {
 			return arv*astenda(arv, aste-1);
 		}
 	}
-
+//PISIKETEST
 }
